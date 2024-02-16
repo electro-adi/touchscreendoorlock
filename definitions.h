@@ -1,8 +1,8 @@
 #ifndef _DEFINITIONS_H
 #define _DEFINITIONS_H
 
-const char* ssid = "Adi Home Network";
-const char* password = "62826282"; 
+const char* ssid = "ssid";
+const char* password = "password"; 
 
 #define SPI_MOSI 23
 #define SPI_MISO 19
